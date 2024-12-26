@@ -1,5 +1,6 @@
 {
   "name": "portfolioTemplate",
+  "homepage": "https://arkar-00.github.io/karoo-portfolio/",
   "version": "2.0.0",
   "private": true,
   "dependencies": {
